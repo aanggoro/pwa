@@ -19,15 +19,6 @@
     {"id":17,"name":"Red-tailed cockatoo","category":"Indigo"},
     {"id":18,"name":"Shrike, common boubou","category":"Turquoise"},
     {"id":19,"name":"Hudsonian godwit","category":"Red"},
-    {"id":20,"name":"Sloth, two-toed tree","category":"Puce"},
-    {"id":21,"name":"Wallaby, bennett's","category":"Fuscia"},
-    {"id":22,"name":"Eastern box turtle","category":"Khaki"},
-    {"id":23,"name":"Blackbuck","category":"Blue"},
-    {"id":24,"name":"Kangaroo, red","category":"Crimson"},
-    {"id":25,"name":"Glider, feathertail","category":"Mauv"},
-    {"id":26,"name":"Armadillo, nine-banded","category":"Yellow"},
-    {"id":27,"name":"Waved albatross","category":"Khaki"},
-    {"id":28,"name":"Otter, cape clawless","category":"Red"},
-    {"id":29,"name":"Civet, small-toothed palm","category":"Orange"},
-    {"id":30,"name":"Cat, jungle","category":"Yellow"}]
+    {"id":20,"name":"Sloth, two-toed tree","category":"Puce"}
+  ]
 }
