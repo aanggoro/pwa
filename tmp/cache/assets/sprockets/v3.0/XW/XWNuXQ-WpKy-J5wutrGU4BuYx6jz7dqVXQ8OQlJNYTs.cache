@@ -1,0 +1,15 @@
+I"é(function() {
+  var ready;
+
+  ready = function() {
+    return $('#toggle-btn').click(function() {
+      $('.container').fadeOut();
+    });
+  };
+
+  $(document).ready(ready);
+
+  $(document).on('turbolink:load', ready);
+
+}).call(this);
+:ET
